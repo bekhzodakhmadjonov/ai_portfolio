@@ -75,7 +75,7 @@ export default function Portfolio() {
                   <div className="mt-12">
                     <Link
                       className="inline-flex items-center font-medium leading-tight text-gray-900 font-semibold group border-b-2 border-blue-200 hover:border-blue-400 transition-colors pb-1"
-                      href="https://docs.google.com/document/d/1Pc29y1PwVcdxbDHvcnXD3dS8H9CJxnNH/edit"
+                      href="https://docs.google.com/document/d/1rm-5VL9aDxZ0h0cSrzF-TAsgRyf-mKQjCRui4NZHhnA/edit?tab=t.0"
                       target="_blank"
                       rel="noreferrer"
                     >

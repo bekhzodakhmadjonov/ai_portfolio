@@ -21,7 +21,7 @@ export function CallToAction() {
             asChild
             className="border-gray-300 hover:border-blue-300 hover:text-blue-600 bg-transparent"
           >
-            <Link href="https://docs.google.com/document/d/1Pc29y1PwVcdxbDHvcnXD3dS8H9CJxnNH/edit" target="_blank">View Resume</Link>
+            <Link href="https://docs.google.com/document/d/1rm-5VL9aDxZ0h0cSrzF-TAsgRyf-mKQjCRui4NZHhnA/edit?tab=t.0" target="_blank">View Resume</Link>
           </Button>
         </div>
       </div>
